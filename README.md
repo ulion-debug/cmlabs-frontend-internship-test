@@ -7,7 +7,7 @@ Clone github with github desktop or git clone https://github.com/ulion-debug/cml
 
 ```bash
 # install dependencies
-$ yarn install
+$ yarn install or npm install --global yarn
 
 # install axios
 $ yarn add @nuxtjs/axios
