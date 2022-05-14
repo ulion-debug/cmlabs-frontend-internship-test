@@ -14,6 +14,8 @@ $ yarn add @nuxtjs/axios
 
 # serve with hot reload at localhost:3000
 $ yarn dev
+
+after that, copy open link localhost such as http://localhost:3000/
 ```
 
 
