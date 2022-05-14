@@ -3,6 +3,8 @@
 ```bash
 Clone github with github desktop or git clone https://github.com/ulion-debug/cmlabs-frontend-internship-test.git
 ```
+```and then cd cmlabs-frontend-internship-test```
+
 ## Build Setup
 
 ```bash
