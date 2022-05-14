@@ -6,6 +6,9 @@ Clone github with github desktop or git clone https://github.com/ulion-debug/cml
 ## Build Setup
 
 ```bash
+# install nuxt
+$ yarn add nuxt
+
 # install dependencies
 $ yarn install or npm install --global yarn
 
