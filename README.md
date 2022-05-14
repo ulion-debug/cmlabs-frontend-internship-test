@@ -1,4 +1,4 @@
-# cmlabs
+# Pre-Assessment CMLABS
 ## Clone Repository
 ```bash
 Clone github with github desktop or git clone https://github.com/ulion-debug/cmlabs-frontend-internship-test.git
